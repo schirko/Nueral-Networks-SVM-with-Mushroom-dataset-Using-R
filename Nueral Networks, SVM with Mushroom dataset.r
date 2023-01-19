@@ -78,26 +78,3 @@ get.accuracy <- function(prediction, real) {
 get.accuracy(shrooms_pred, shrooms_test$class)
 
 
-
-
-
-##Linear Kernel SVM - Build classifier model 
-
-
-
-
-
-
-##Gaussian kernel SVM - Build classifier model  
-
-
-
-
-
-
-
-
-
-
-
-
